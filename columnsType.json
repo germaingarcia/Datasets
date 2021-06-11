@@ -1,0 +1,8 @@
+{
+   "Numericos": [  "JALADOS",  "APROBADOS",  "CANT_RESERVAS",  "COD_CURSO",  "COD_GRUPO",  "COD_PLAN",  "CREDITOS",  "EFICIENCIA_SEMESTRES",  "EXCESO_INASISTENCIA",  "HRS_INASISTENCIA",  "Q1_Nota_S",  "Q3_Nota_S",  "Q1_Obligatorio_S",  "Q3_Obligatorio_S",  "Q1_Electivo_S",  "Q3_Electivo_S",  "PONDERADO",  "PRCTJE_INASISTENCIA_CURSO",  "AVANCE_CREDITOS",  "AGE"],   
+   
+   "Categoricos": [ "BECA_VIGENTE", "ESTADO_CIVIL", "PROCEDENCIA", "RESIDENCIA", "SEXO", "TIPO_COLEGIO" ],
+   "Ordinal": [],
+   "Target": "Dropout",
+   "Index": "COD_PERSONA"
+}
